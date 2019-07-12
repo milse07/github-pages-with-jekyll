@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
+title: Milse07's Github Blog
+author: Milse07
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hopefully I will finally understand how to code!
+  This is like a complete foreign language to me. Not just the wording
+  but the abreviations and rules of the language as well. Fingers Crossed.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: not now
+github_username:  milse07
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
